@@ -20,7 +20,7 @@ This will be the first attempt at making an ingame manual for GC.
 
 ### Pot
 
-A brewing block that can be placed ontop of the stove to make soups and make a lower yield as the brew kettle?
+A brewing block that can be placed ontop of the stove to make soups and make a lower yield as the brew kettle? 
 
 ### Growthcraft Stove
 
