@@ -12,7 +12,19 @@ This module is named the Kitchen module as it will be intended to process items 
 
 ### Growthcraft Cook Book
 
-This will be the first attempt at making an ingame manual for GC.
+This will be the first attempt at making an ingame manual for GC. 
+
+#### Page 1 
+
+Title Page
+
+#### Page 2
+
+Intro to Growthcraft Kitchen
+
+#### Page 3
+
+Page three will contain recipes.
 
 ## Module Blocks
 
@@ -22,7 +34,10 @@ A brewing block that can be placed ontop of the stove to make soups and make a l
 
 ### Growthcraft Stove
 
-Interactive Block that produces heat. The GC Stove is similar to the vanilla furnance with the exception that it acts like a heat block. This can be used to heat Brew Kettles and Culture Jars.
+Interactive Block that produces heat. The GC Stove is similar to the vanilla furnance with the exception that it acts like a heat block. This can be used to heat Brew Kettles and Culture Jars. It will not convert materials like a furnace does. There will be two variations. 
+
+* Wood Burning Stove - Accepts OreDictionary Wood and Plank materials only. Recipe: 3 Iron Ingots (Top plate), 5 Cobblestone
+* Wood Burning Stove (Reinforced) - can burn all materials that a normal furnace can use. Recipe: 1 Wood Burning Stove, 5 Iron Ingots.
 
 ## Module Fluids
 
