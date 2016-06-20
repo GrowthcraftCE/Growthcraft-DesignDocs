@@ -20,11 +20,11 @@ This will be the first attempt at making an ingame manual for GC.
 
 ### Pot
 
-A brewing block that can be placed ontop of the stove to make soups and make a lower yield as the brew kettle? 
+A brewing block that can be placed ontop of the stove to make soups and make a lower yield as the brew kettle? Perhaps this will be a half block with half the capicty of the Brew Kettle?
 
 ### Growthcraft Stove
 
-Interactive Block that produces heat. The GC Stove is similar to the vanilla furnance with the exception that it acts like a heat block. This can be used to heat Brew Kettles and Culture Jars.
+Interactive Block that produces heat. The GC Stove is similar to the vanilla furnance with the exception that it acts like a heat block. This can be used to heat Brew Kettles and Culture Jars. 
 
 ### Brew Stand
 
